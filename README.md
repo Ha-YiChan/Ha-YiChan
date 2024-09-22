@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dustin_Ellis
+- 👋 Hi, I’m @Yi-Chan
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
